@@ -13,6 +13,7 @@ public class MainActivity extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         int a = 5;
+        int b = 10;
 
     }
 
